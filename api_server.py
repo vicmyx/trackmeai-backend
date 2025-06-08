@@ -16,7 +16,8 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://trackitai.vercel.app",  # Production Vercel domain only
+        "https://trackmeai-frontend.vercel.app",  # New frontend domain
+        "https://trackitai.vercel.app",  # Keep old domain for transition
     ],
     allow_credentials=True,
     allow_methods=["*"],
