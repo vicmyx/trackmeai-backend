@@ -15,12 +15,16 @@ app = FastAPI(
 # Add CORS middleware to allow frontend connections
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "https://trackmeai-frontend.vercel.app",  # New frontend domain
-        "https://trackitai.vercel.app",  # Keep old domain for transition
-    ],
+    allow_origins=["*"],  # Allow all origins for now to test
+    # Specific origins (use this instead of * for production):
+    # allow_origins=[
+    #     "https://trackmeai-frontend.vercel.app",  # Primary frontend domain
+    #     "https://trackmeai-frontend-git-*.vercel.app",  # Git preview deployments
+    #     "https://trackitai.vercel.app",  # Legacy domain
+    #     "http://localhost:3000",  # Local development
+    # ],
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allow_headers=["*"],
 )
 
