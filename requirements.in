@@ -1,0 +1,16 @@
+# Core dependencies for AI Mechanic - use exact working versions
+requests==2.31.0
+PyMuPDF==1.23.14
+openai==1.12.0
+supabase==2.3.4
+psycopg2-binary==2.9.9
+pgvector==0.2.5
+fastapi==0.108.0
+uvicorn==0.25.0
+python-dotenv==1.0.0
+tiktoken==0.5.2
+
+# Scientific computing - exact working versions (no more >=)
+numpy==1.24.3
+scipy==1.13.1
+scikit-learn==1.6.1

@@ -1,0 +1,128 @@
+[
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "1. Bodywork",
+    "chunk_text": "Check all bodywork for damage\nCheck all the lights function\nCheck the underside of the sidepods, diffuser and front splitter skid blocks\nPut the car on a stand\nDisarm the fire extinguisher\nDrain the fuel and measure the amount",
+    "chunk_index": 0,
+    "page_start": 63,
+    "word_count": 39,
+    "token_count": 53
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "2. Shake Test",
+    "chunk_text": "Check all corners for play in wheel bearings and rose joints\nCheck all steering components for play\nCheck rockers and dampers for play\nCheck the front diffuser\nFit new tyres if necessary, clean and fit valve caps",
+    "chunk_index": 1,
+    "page_start": 63,
+    "word_count": 37,
+    "token_count": 45
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "3. Data Check (See Data Manual for further information)",
+    "chunk_text": "Check engine hours and overrevs\nCheck the data the following:\nHigh water temperature\nOil surge, Low oil pressure\nGearshift decision\u2019s\nCharging trace\nFull throttle, 4% on idle\nFaulty sensors\n4/5.   Differential and Driveshafts\nInspect and grease the driveshafts\nCheck the clutch is working correctly\nCheck the GDU oil level\nCheck the GDU ratio\u2019s for pitting etc.\n6/7/8/9.     Suspension and Brakes\nClean the corners whilst checking for cracks on the following components:\nUprights, wishbones, Anti roll bars\nChassis\nWishbone pick up points\nWishbone bushes\nClean and lube wheel nuts\nBleed the brakes and clutch\nCheck the condition of the brake pads\nCheck the balance bar\nRepack the silencer if needed",
+    "chunk_index": 2,
+    "page_start": 63,
+    "word_count": 109,
+    "token_count": 179
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "10.   Engine Bay",
+    "chunk_text": "Clean the engine bay\nCheck wiring for signs of heat or chaffing\nCheck all oil pipes\nCheck all fuel lines\nCheck engine mounting bolts\nCheck all hose clamps\nCheck GDU mounting bolts\nCheck exhaust primary bolts\nDrain the catch tank\nClean the air filter and check the airbox bolts\nCheck all coolant pipes",
+    "chunk_index": 3,
+    "page_start": 63,
+    "word_count": 53,
+    "token_count": 69
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "11.   Wiring",
+    "chunk_text": "Check wiring in the engine bay for chaffing and signs of heat\nCheck the condition of all connectors\nCheck the wheel speed sensor, gap (all six lights)\nCheck wiring behind the dash\nCheck all wiring is away or shielded from the exhaust",
+    "chunk_index": 4,
+    "page_start": 64,
+    "word_count": 42,
+    "token_count": 51
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "12.    Paddleshift",
+    "chunk_text": "Check paddle shift actuator bearings and length\nCheck shifting lines for leaks\nTighten valve block",
+    "chunk_index": 5,
+    "page_start": 64,
+    "word_count": 15,
+    "token_count": 20
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "13.   Oil Filter",
+    "chunk_text": "Drain the oil and remove the filter\nRemove the 17mm drain bung and check the magnet for debris\nFill the car with new oil and fit new filter, re-Lockwire the bung when finished\nEnsure the hose clip is fitted correctly onto the new filter\nDry crank the car to circulate the new oil",
+    "chunk_index": 6,
+    "page_start": 64,
+    "word_count": 53,
+    "token_count": 67
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "14.   Run Up",
+    "chunk_text": "Check coolant level\nStart the engine\nWarm the oil to 55deg\nHold the rpm at 4000rpm for 5 seconds and then turn engine off\nCheck the oil level and top up if needed\nCheck for any other signs of leaks",
+    "chunk_index": 7,
+    "page_start": 64,
+    "word_count": 40,
+    "token_count": 51
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "15.   Spanner Check",
+    "chunk_text": "Check all the following components:\nUprights, Wishbones, Pushrod\u2019s, Rocker\u2019s, Steering, Callipers, Pedal Box\nFront Diffuser\nHose clips, Oil lines, Fuel lines, Water pipes\nAir Jacks (Check for leaks)",
+    "chunk_index": 8,
+    "page_start": 64,
+    "word_count": 28,
+    "token_count": 55
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "16.    Safety Systems",
+    "chunk_text": "Check the seat belts are in date and are free from cuts and tears\nCheck the fire extinguisher is in date and full",
+    "chunk_index": 9,
+    "page_start": 64,
+    "word_count": 23,
+    "token_count": 25
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "17.    Set Down/Set Up",
+    "chunk_text": "Measure the car as it left the previous track and record\nSet up the car for the next circuit",
+    "chunk_index": 10,
+    "page_start": 64,
+    "word_count": 19,
+    "token_count": 20
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "18.   Clean The Car",
+    "chunk_text": "Clean the interior, hoover the pedal box\nClean the bodywork\nPolish the car",
+    "chunk_index": 11,
+    "page_start": 64,
+    "word_count": 13,
+    "token_count": 19
+  },
+  {
+    "manual_id": "Radical_SR3_Owners_Manual",
+    "section_title": "19.   Re-fit Bodywork",
+    "chunk_text": "Fit diffuser and bodywork ensuring lights are connected and working\nCheck cockpit controls\nCheck all the latches and dzus fasteners on the bodywork\nFit the rear tie downs",
+    "chunk_index": 12,
+    "page_start": 64,
+    "word_count": 28,
+    "token_count": 37
+  },
+  {
+    "manual_id": "Radical_Handling_Guide",
+    "section_title": "CONTENTS",
+    "chunk_text": "Introduction ...................................................................................................................................................... 4\nHandling & Setup Guide................................................................................................................................. 4\nSome Examples of Driver Feedback ............................................................................................................. 5\nGuidelines on the Effects of Various Setup Changes ................................................................................. 6\nStiffer Front Anti-Roll Bar ........................................................................................................................... 6\nStiffer Rear Anti-Roll Bar ............................................................................................................................ 6\nStiffer Front Spring ...................................................................................................................................... 6\nStiffer Rear Spring ...................................................................................................................................... 6\nIncrease Camber ...................................................................................................................................... 6\nHigher Tyre Pressure .................................................................................................................................. 6\nFront Toe In/Out ........................................................................................................................................ 7\nRear Toe In/Out ......................................................................................................................................... 7\nFront Ride Height ....................................................................................................................................... 7\nRear Ride Height ....................................................................................................................................... 7\nWings/Dive Planes..................................................................................................................................... 7\nFront Bump Damping ............................................................................................................................... 7\nRear Bump Damping ................................................................................................................................ 8\nFront Rebound Damping ......................................................................................................................... 8\nRear Rebound Damping ......................................................................................................................... 8\nIncrease Front Preload ............................................................................................................................. 8\nHandling Issues and Potential Solutions .................................................................................................... 8",
+    "chunk_index": 0,
+    "page_start": 3,
+    "word_count": 111,
+    "token_count": 236
+  }
+]
